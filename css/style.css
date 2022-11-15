@@ -1,0 +1,64 @@
+header {
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 90vh;
+}
+
+/* header ul {
+  background-color: rgba(81, 180, 134, 0.637);
+} */
+
+header .bg-danger {
+  background-color: rgba(216, 106, 63, 0.726) !important;
+}
+
+header .bg-success {
+  background-color: rgba(81, 180, 134, 0.637) !important;
+}
+
+.sec1 h3 {
+  color: rgb(216, 106, 63) !important;
+}
+
+.sec2 .text-bg-danger {
+  background: rgb(216, 106, 63) !important;
+}
+
+.sec2 .text-bg-success {
+  background: rgb(81, 180, 134) !important;
+}
+
+.bg-image-height {
+  min-height: 300px;
+}
+
+.sec3 {
+  background-image: url("../img/process-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 65vh;
+}
+
+.sec3 div div:last-of-type img {
+  margin-left: 35% !important;
+}
+
+.sec4 {
+  min-height: 70vh !important;
+}
+
+.card-body {
+  background-color: rgb(235, 235, 235);
+}
+
+.sec7 {
+  background: rgb(216, 106, 63) !important;
+}
+
+.sec9 .bg-danger {
+  background: rgb(216, 106, 63) !important;
+}
